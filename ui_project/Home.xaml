@@ -1,0 +1,31 @@
+﻿<Page x:Class="isoprojekti.Home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:isoprojekti"
+      mc:Ignorable="d"
+      Title="Home" Height="358.868" Width="640.755">
+
+    <Grid Margin="0,0,10,10">
+        <!-- App list -->
+        <Border Grid.Column="0" Grid.Row="0" Height="35" Padding="5" Background="#4E87D4">
+            <Label VerticalAlignment="Center" Foreground="White" Margin="0,0,5,0">Project names</Label>
+        </Border>
+        <ListBox Name="appListBox" Grid.Column="0" Grid.Row="1">
+            <ListBoxItem Selected="ListBoxItem_Selected">Drag and Drop</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_1" Content="Read Website"/>
+            <ListBoxItem Selected="ListBoxItem_Selected_2" Content="Ink Canvas"/>
+            <ListBoxItem Selected="ListBoxItem_Selected_3" Content="Organisation Editor"/>
+            <ListBoxItem Selected="ListBoxItem_Selected_4" Content="List View"/>
+        </ListBox>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+    </Grid>
+</Page>

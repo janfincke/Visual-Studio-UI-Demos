@@ -1,0 +1,26 @@
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\bin\Debug\isoprojekti.exe.config
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.csprojResolveAssemblyReference.cache
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Drag and Drop.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Home.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\App.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti_MarkupCompile.cache
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti_MarkupCompile.lref
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\MainWindow.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\bin\Debug\isoprojekti.exe
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\bin\Debug\isoprojekti.pdb
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Drag and Drop.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Home.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\MainWindow.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.g.resources
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.Properties.Resources.resources
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.csproj.GenerateResource.Cache
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.exe
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\isoprojekti.pdb
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\HTTP Request.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Ink Canvas.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\HTTP Request.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Ink Canvas.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Organisation.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\Organisation.baml
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\ListView.g.cs
+c:\users\it14\documents\visual studio 2015\Projects\isoprojekti\isoprojekti\obj\Debug\ListView.baml
